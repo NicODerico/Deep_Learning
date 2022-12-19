@@ -1,0 +1,12 @@
+tensorflow
+numpy 
+matplotbib
+seaborn 
+pandas 
+sklearn
+time
+math
+datetime
+os
+importlib
+h5py
