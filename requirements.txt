@@ -1,8 +1,12 @@
-tensorflow
+python == 3.8.10
+tensorflow == 2.11.0
 numpy 
 matplotlib
 seaborn 
 pandas 
-sklearn
+scikit-learn
+math
+datetime
+os
 importlib
 h5py
